@@ -1,0 +1,61 @@
+
+        /*
+        .blog{
+            border: 10px solid purple;
+            border-radius: 20px;
+            margin: 1px;
+            width: 30%;
+            display: inline-block;
+
+
+        }
+        h1{
+            text-align: center;
+        }
+        p{
+            text-align: justify;
+        }
+        
+*/
+        
+
+        h1{
+            color: red;
+            background-color: rgb(75, 224, 38);
+            height: 90px;
+            width: 500px;
+        }
+        p{
+            color: blue;
+            font-size: 20px;
+            font-weight: 700;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        img{
+            width: 30%;
+        }
+        #birthday{
+            font-size: 40px;
+            color: slateblue;
+        }
+        #murgi{
+            color: tomato;
+            font-size: 30px;
+        }
+        .friend{
+            background-color: greenyellow;
+        }
+        h4.friend{
+            font-size: 50px;
+        }
+        .neighor{
+            width: 200px;
+        }
+        .romantic{
+            color: brown;
+        }
+        .blog{
+            background-color: lightblue;
+        }
+
+        
